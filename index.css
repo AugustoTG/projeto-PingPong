@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+h1{
+    text-align: center;
+    background-color: #286047;
+}
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
